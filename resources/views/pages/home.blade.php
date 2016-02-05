@@ -131,12 +131,12 @@
             <blockquote>
               <div class="row">
                 <div class="col-sm-3 text-center">
-                  <img class="img-circle" src="http://www.reactiongifs.com/r/overbite.gif" style="width: 100px;height:100px;">
+                  <img class="img-circle" src="/assets/images/testi(1).jpg" style="width: 100px;height:100px;">
                   <!--<img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/kolage/128.jpg" style="width: 100px;height:100px;">-->
                 </div>
                 <div class="col-sm-9">
                   <p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!</p>
-                  <small>Someone famous</small>
+                  <small> <strong>Kukuh Setyo Raharjo</strong>&nbsp;Teknik Elektro UGM</small>
                 </div>
               </div>
             </blockquote>
@@ -146,11 +146,11 @@
             <blockquote>
               <div class="row">
                 <div class="col-sm-3 text-center">
-                  <img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/mijustin/128.jpg" style="width: 100px;height:100px;">
+                  <img class="img-circle" src="/assets/images/testi(2).jpg" style="width: 100px;height:100px;">
                 </div>
                 <div class="col-sm-9">
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor nec lacus ut tempor. Mauris.</p>
-                  <small>Someone famous</small>
+                  <small><strong>Mu'tasim Billah</strong>&nbsp;Teknik Industri Undip</small>
                 </div>
               </div>
             </blockquote>
@@ -160,11 +160,11 @@
             <blockquote>
               <div class="row">
                 <div class="col-sm-3 text-center">
-                  <img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/keizgoesboom/128.jpg" style="width: 100px;height:100px;">
+                  <img class="img-circle" src="/assets/images/testi(3).jpg" style="width: 100px;height:100px;">
                 </div>
                 <div class="col-sm-9">
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum elit in arcu blandit, eget pretium nisl accumsan. Sed ultricies commodo tortor, eu pretium mauris.</p>
-                  <small>Someone famous</small>
+                  <small><strong>Ramadhan Galih Wibisono</strong>&nbsp;Teknik Mesin UGM</small>
                 </div>
               </div>
             </blockquote>
@@ -181,8 +181,14 @@
 
 
    <div class="container harga">
+     <div class="row">
+       <div class="text-center">
+ <h2><strong>Upgrade ke Premium</strong></h2>
+       </div>
+
+     </div>
        <div class="row ">
-           <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+           <div class="col-xs-12 matematikaIpacol-sm-6 col-md-6 col-lg-6">
                <div class="db-wrapper">
                    <div class="db-pricing-seven">
                        <ul>
@@ -202,7 +208,7 @@
                    </div>
                </div>
            </div>
-           <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+           <div class="col-xs-12 matematikaIpacol-sm-6 col-md-6 col-lg-6">
                <div class="db-wrapper">
                    <div class="db-pricing-seven">
                        <ul>
@@ -221,37 +227,19 @@
                    </div>
                </div>
            </div>
-           <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-               <div class="db-wrapper">
-                   <div class="db-pricing-seven">
-                       <ul>
-                           <li class="price">
-                               <i class="glyphicon glyphicon-list-alt"></i>
-                               Extra
-                           </li>
-                           <li>Lorem Ipsum</li>
-                           <li>Lorem Ipsum</li>
-                           <li>Lorem Ipsum</li>
-                           <li>Lorem Ipsum</li>
-                       </ul>
-                       <div class="pricing-footer">
-                           <a href="#" class="btn btn-default btn-lg">BUY <i class="glyphicon glyphicon-play-circle"></i></a>
-                       </div>
-                   </div>
-               </div>
-           </div>
+
 
        </div>
        </div>
 
 <footer id="footerWrapper">
-    
+
     <div class="container">
       <div class="row">
         <div class="container text-center">
             <hr />
                   <div class="row">
-                    
+
                       <div class="col-md-2 border-right">
                         <ul class="nav nav-pills nav-stacked">
                           <li><a href="#">Bantuan</a></li>
@@ -273,11 +261,11 @@
                                 <!-- <a href="mailto:terraversityp@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a> -->
                         </div>
                       </div>
-                    
+
                   </div>
         </div>
       </div>
-    
+
     <section id="footerRights">
       <div class="container">
         <div class="row">

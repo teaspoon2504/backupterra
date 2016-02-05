@@ -18,8 +18,8 @@
                 <li>
                     <a href="#">tahun 2001</a>
                 </li>
-                <?php
-                for ($i=0; $i < 100; $i++) {
+                <?php 
+                for ($i=0; $i < 100; $i++) { 
                 ?>
                 <li>
                     <a href="#">tahun 2002</a>
@@ -49,8 +49,8 @@
                 <li>
                     <a href="#">BESARAN DAN SATUAN</a>
                 </li>
-
-
+                
+                
 
             </ul>
         </div>
@@ -1062,7 +1062,7 @@
                             <div class="box-body">
                                 <iframe width="420" height="315" src="https://www.youtube.com/embed/k2msLFIet9k" frameborder="0" allowfullscreen></iframe>
 
-                            </div>
+                            </div> 
                             <div class="box-footer"></div>
                         </div>
                         <div class="box">
@@ -1283,7 +1283,7 @@
                             </div>
                             <div class="box-footer"></div>
                         </div>
-
+                      
 
                     </div>
                     <!-- <div class="col-lg-4">
@@ -1313,7 +1313,7 @@
         </div>
         <!-- /#page-content-wrapper -->
 
-
+        
 
 </div>
     <!-- /#wrapper -->

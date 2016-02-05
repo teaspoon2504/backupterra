@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $("#matematikaDasar").hover(function(){
-        $(".tahunmatematikaDasar").show();
-        $(".tahunmatematikaIpa").hide();
+        $(".matematikaDasar").show();
+        $(".matematikaIpa").hide();
         $(".tahunfisika").hide();
         $(".tahunkimia").hide();
         $(".tahunbiologi").hide();
@@ -10,8 +10,8 @@ $(document).ready(function(){
         $(".tahuntpa").hide();
     });
     $("#matematikaIpa").hover(function(){
-        $(".tahunmatematikaDasar").hide();
-        $(".tahunmatematikaIpa").show();
+        $(".matematikaDasar").hide();
+        $(".matematikaIpa").show();
         $(".tahunfisika").hide();
         $(".tahunkimia").hide();
         $(".tahunbiologi").hide();
@@ -20,8 +20,8 @@ $(document).ready(function(){
         $(".tahuntpa").hide();
     });
     $("#fisika").hover(function(){
-        $(".tahunmatematikaDasar").hide();
-        $(".tahunmatematikaIpa").hide();
+        $(".matematikaDasar").hide();
+        $(".matematikaIpa").hide();
         $(".tahunfisika").show();
         $(".tahunkimia").hide();
         $(".tahunbiologi").hide();
@@ -30,8 +30,8 @@ $(document).ready(function(){
         $(".tahuntpa").hide();
     });
     $("#kimia").hover(function(){
-        $(".tahunmatematikaDasar").hide();
-        $(".tahunmatematikaIpa").hide();
+        $(".matematikaDasar").hide();
+        $(".matematikaIpa").hide();
         $(".tahunfisika").hide();
         $(".tahunkimia").show();
         $(".tahunbiologi").hide();
@@ -40,8 +40,8 @@ $(document).ready(function(){
         $(".tahuntpa").hide();
     });
     $("#biologi").hover(function(){
-        $(".tahunmatematikaDasar").hide();
-        $(".tahunmatematikaIpa").hide();
+        $(".matematikaDasar").hide();
+        $(".matematikaIpa").hide();
         $(".tahunfisika").hide();
         $(".tahunkimia").hide();
         $(".tahunbiologi").show();
@@ -50,8 +50,8 @@ $(document).ready(function(){
         $(".tahuntpa").hide();
     });
     $("#inggris").hover(function(){
-        $(".tahunmatematikaDasar").hide();
-        $(".tahunmatematikaIpa").hide();
+        $(".matematikaDasar").hide();
+        $(".matematikaIpa").hide();
         $(".tahunfisika").hide();
         $(".tahunkimia").hide();
         $(".tahunbiologi").hide();
@@ -60,8 +60,8 @@ $(document).ready(function(){
         $(".tahuntpa").hide();
     });
     $("#indo").hover(function(){
-        $(".tahunmatematikaDasar").hide();
-        $(".tahunmatematikaIpa").hide();
+        $(".matematikaDasar").hide();
+        $(".matematikaIpa").hide();
         $(".tahunfisika").hide();
         $(".tahunkimia").hide();
         $(".tahunbiologi").hide();
@@ -70,8 +70,8 @@ $(document).ready(function(){
         $(".tahuntpa").hide();
     });
     $("#tpa").hover(function(){
-        $(".tahunmatematikaDasar").hide();
-        $(".tahunmatematikaIpa").hide();
+        $(".matematikaDasar").hide();
+        $(".matematikaIpa").hide();
         $(".tahunfisika").hide();
         $(".tahunkimia").hide();
         $(".tahunbiologi").hide();
